@@ -1,2 +1,2 @@
 # Calculadora-CSharp
- Calculadora Desenvolvida em C# para aprendizado
+ Calculadora Desenvolvida em C#
